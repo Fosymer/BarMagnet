@@ -1061,7 +1061,7 @@
 					"$(SRCROOT)/NSBencodeSerialization/NSBencodeSerialization",
 				);
 				INFOPLIST_FILE = "Sources/Supporting Files/BarMagnet-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/Sources",
@@ -1098,7 +1098,7 @@
 					"$(SRCROOT)/NSBencodeSerialization/NSBencodeSerialization",
 				);
 				INFOPLIST_FILE = "Sources/Supporting Files/BarMagnet-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/Sources",
